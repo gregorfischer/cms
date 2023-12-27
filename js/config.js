@@ -12,7 +12,7 @@ var config = {
   // and branch to get files from.
   github: {
     username: 'gregorfischer',
-    repo: 'cms ',
+    repo: 'cms',
     branch: 'main',
     host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
